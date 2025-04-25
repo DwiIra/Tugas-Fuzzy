@@ -31,7 +31,7 @@ R1 = Jika berat badan rendah dan tinggi badan pendek dan kesehatan tidak sehat, 
 R2 = Jika berat badan normal dan tinggi badan normal dan kesehatan sehat, maka status gizi = normal.
 R3 = Jika berat badan tinggi dan tinggi badan tinggi dan kesehatan sehat, maka status gizi = gizi lebih.
 
-Jawaban :
+Jawaban : 
 2. Perhitungan Nilai Keanggotaan
 Berikut adalah perhitungan nilai keanggotaan untuk input yang diberikan:
 
