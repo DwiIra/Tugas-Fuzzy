@@ -1,6 +1,5 @@
 # Tugas-Fungsi-Fuzzy
-
-# Soal <br>
+Soal <br>
 Sebuah sistem fuzzy digunakan untuk menentukan status gizi bayi berdasarkan tiga variabel input: <br>
 <br>
 1. Berat Badan (kg) <br>
@@ -23,7 +22,8 @@ Kurang Gizi <br>
 Normal <br>
 Gizi Lebih <br>
 <br>
-<b>Pertanyaan<b> : <br>
+
+# Pertanyaan : <br>
 1. Gambar kurva setiap Fungsi Keanggotaan <br>
 2. Hitung nilai keanggotaan untuk berat badan = 4.2 kg, tinggi badan = 56 cm, dan kesehatan = 3.5 <br>
 3. 3 aturan  berdasarkan logika berikut: <br>
