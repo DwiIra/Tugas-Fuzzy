@@ -1,7 +1,7 @@
 # Tugas-Fungsi-Fuzzy
 Soal <br>
 Sebuah sistem fuzzy digunakan untuk menentukan status gizi bayi berdasarkan tiga variabel input: <br>
-<br>
+
 1. Berat Badan (kg) <br>
 Rendah: fungsi segitiga (a = 2, b = 3, c = 4) <br>
 Normal: fungsi segitiga (a = 3.5, b = 5, c = 6.5) <br>
